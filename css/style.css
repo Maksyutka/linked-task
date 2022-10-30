@@ -613,6 +613,7 @@ body {
   border: 1px solid rgba(104, 104, 104, 0.5);
   border-radius: 5px;
   align-items: center;
+  background-color: var(--color-light);
   width: 100%;
   padding: 16px;
   cursor: pointer;
